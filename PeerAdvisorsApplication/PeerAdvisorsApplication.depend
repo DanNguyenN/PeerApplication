@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637536112 source:c:\users\danng\onedrive - the university of texas at dallas\desktop\cs-1337 projects\class\peeradvisorsapplication\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<PeerAdvisors.h>
+
+1637535123 source:c:\users\danng\onedrive - the university of texas at dallas\desktop\cs-1337 projects\class\peeradvisorsapplication\src\peeradvisors.cpp
+	"PeerAdvisors.h"
+
+1637527362 c:\users\danng\onedrive - the university of texas at dallas\desktop\cs-1337 projects\class\peeradvisorsapplication\include\peeradvisors.h
+	<iostream>
+	<iterator>
+
